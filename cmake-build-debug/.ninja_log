@@ -1,0 +1,8 @@
+# ninja log v5
+24	1208	7818074915796719	CMakeFiles/Steganography_project.dir/Steganography.cpp.obj	cf4b641b97e3aea7
+13	1320	7818074916917735	CMakeFiles/Steganography_project.dir/ImageHandler.cpp.obj	1da08dc17064f9e6
+3	1485	7818074918559234	CMakeFiles/Steganography_project.dir/main.cpp.obj	5a44454a67344ba8
+54	2259	7818074926288894	_deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.obj	7455f9839ed0a830
+39	3038	7818074934050534	_deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.obj	4ae588d2bf1398da
+3038	3522	7818074938944978	_deps/fmt-build/libfmtd.a	4c321d14e155434
+3522	4394	7818074947595586	Steganography_project.exe	9bf3de6a7f37678c
