@@ -1,8 +1,13 @@
 # ninja log v5
-24	1208	7818074915796719	CMakeFiles/Steganography_project.dir/Steganography.cpp.obj	cf4b641b97e3aea7
-13	1320	7818074916917735	CMakeFiles/Steganography_project.dir/ImageHandler.cpp.obj	1da08dc17064f9e6
-3	1485	7818074918559234	CMakeFiles/Steganography_project.dir/main.cpp.obj	5a44454a67344ba8
-54	2259	7818074926288894	_deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.obj	7455f9839ed0a830
-39	3038	7818074934050534	_deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.obj	4ae588d2bf1398da
-3038	3522	7818074938944978	_deps/fmt-build/libfmtd.a	4c321d14e155434
 3522	4394	7818074947595586	Steganography_project.exe	9bf3de6a7f37678c
+24	1208	7818074915796719	CMakeFiles/Steganography_project.dir/Steganography.cpp.obj	cf4b641b97e3aea7
+39	3038	7818074934050534	_deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.obj	4ae588d2bf1398da
+3	1485	7818074918559234	CMakeFiles/Steganography_project.dir/main.cpp.obj	5a44454a67344ba8
+13	1320	7818074916917735	CMakeFiles/Steganography_project.dir/ImageHandler.cpp.obj	1da08dc17064f9e6
+54	2259	7818074926288894	_deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.obj	7455f9839ed0a830
+3038	3522	7818074938944978	_deps/fmt-build/libfmtd.a	4c321d14e155434
+9	1154	7818216896583674	build.ninja	c3282536f7dd29b1
+24	1075	7818216907635241	CMakeFiles/Steganography_project.dir/Steganography.cpp.obj	cf4b641b97e3aea7
+16	1206	7818216908935981	CMakeFiles/Steganography_project.dir/ImageHandler.cpp.obj	1da08dc17064f9e6
+6	1344	7818216910328005	CMakeFiles/Steganography_project.dir/main.cpp.obj	5a44454a67344ba8
+1344	2271	7818216919524367	Steganography_project.exe	9bf3de6a7f37678c

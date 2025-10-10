@@ -1,5 +1,5 @@
-#include "Steganography.hpp"
-#include "ImageHandler.hpp"
+#include "Steganography.h"
+#include "ImageHandler.h"
 #include <vector>
 #include <bitset>
 #include <fmt/core.h>

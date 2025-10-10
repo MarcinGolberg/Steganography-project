@@ -153,12 +153,12 @@
 		},
 		{
 			"backtrace" : 1,
-			"path" : "ImageHandler.hpp",
+			"path" : "ImageHandler.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
-			"path" : "Steganography.hpp",
+			"path" : "Steganography.h",
 			"sourceGroupIndex" : 1
 		}
 	],

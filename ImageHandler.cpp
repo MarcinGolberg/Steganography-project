@@ -1,4 +1,4 @@
-#include "ImageHandler.hpp"
+#include "ImageHandler.h"
 #include <fstream>
 #include <sstream>
 #include <fmt/core.h>

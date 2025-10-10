@@ -22,10 +22,10 @@ add_executable(Steganography_project main.cpp
         ImageHandler.cpp
         Steganography.cpp
         ImageHandler.cpp
-        ImageHandler.hpp
-        ImageHandler.hpp
+        ImageHandler.h
+        ImageHandler.h
         ImageHandler.cpp
         Steganography.cpp
-        Steganography.hpp)
+        Steganography.h)
 
 target_link_libraries(Steganography_project fmt)

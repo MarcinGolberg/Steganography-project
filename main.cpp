@@ -1,6 +1,6 @@
 #include <filesystem>
-#include "ImageHandler.hpp"
-#include "Steganography.hpp"
+#include "ImageHandler.h"
+#include "Steganography.h"
 #include <fmt/core.h>
 
 // The video has different .exe name then this, becouse I read about name requiraments later. Code it the same
